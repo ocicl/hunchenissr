@@ -1,0 +1,10 @@
+* hunchenissr
+
+The ISSR backend for The Hunchentoot HTTP server.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/interactive-ssr/hunchenissr.git   |
+| commit  | 117a8fe  |
+| systems | hunchenissr |
+|---------+-------------------------------------------|
+
